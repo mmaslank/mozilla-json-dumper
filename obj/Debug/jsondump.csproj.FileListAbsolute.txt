@@ -1,0 +1,6 @@
+D:\programy\dumpjson\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\programy\dumpjson\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\programy\dumpjson\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\programy\dumpjson\ConsoleApplication1\ConsoleApplication1\obj\Debug\jsondump.csprojResolveAssemblyReference.cache
+D:\programy\dumpjson\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\programy\dumpjson\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

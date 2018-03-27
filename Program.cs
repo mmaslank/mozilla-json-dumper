@@ -15,7 +15,6 @@ namespace UACTEST
                             {
                                 targetFile.WriteLine(File.ReadAllText(file));
                             }
-            //Console.WriteLine(File.ReadAllText(file));
         }
     }
 }
